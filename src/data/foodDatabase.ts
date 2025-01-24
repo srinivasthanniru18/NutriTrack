@@ -110,4 +110,14 @@ export const foodDatabase: FoodItem[] = [
   { id: 98, name: "Cucumber 98", calories: 15, protein: 0.7, carbohydrates: 3.6, fats: 0.1, vitamins: "Vitamin K", minerals: "Magnesium" },
   { id: 99, name: "Dates 99", calories: 277, protein: 1.8, carbohydrates: 75, fats: 0.2, vitamins: "Vitamin B6", minerals: "Iron" },
   { id: 100, name: "Carrot 100", calories: 41, protein: 0.9, carbohydrates: 10, fats: 0.2, vitamins: "Vitamin A", minerals: "Calcium" },
+  { id: 101, name: "Grilled Chicken", calories: 165, protein: 31, carbohydrates: 0, fats: 3.6, vitamins: "B6", minerals: "Phosphorus, Selenium" },
+  { id: 102, name: "Brown Rice", calories: 215, protein: 5, carbohydrates: 45, fats: 1.8, vitamins: "B3, B6", minerals: "Manganese, Magnesium" },
+  { id: 103, name: "Broccoli", calories: 55, protein: 4, carbohydrates: 11, fats: 0.6, vitamins: "C, K", minerals: "Potassium, Calcium" },
+  { id: 104, name: "Almonds", calories: 164, protein: 6, carbohydrates: 6, fats: 14, vitamins: "E", minerals: "Magnesium, Manganese" },
+  { id: 105, name: "Oats", calories: 154, protein: 6, carbohydrates: 27, fats: 3.2, vitamins: "B1, B5", minerals: "Iron, Zinc" },
+  { id: 106, name: "Sweet Potato", calories: 103, protein: 2, carbohydrates: 24, fats: 0.2, vitamins: "A, C", minerals: "Potassium, Manganese" },
+  { id: 107, name: "Eggs (Boiled)", calories: 68, protein: 6, carbohydrates: 0.6, fats: 5, vitamins: "B12, D", minerals: "Selenium, Iron" },
+  { id: 108, name: "Greek Yogurt", calories: 100, protein: 10, carbohydrates: 4, fats: 0.7, vitamins: "B12", minerals: "Calcium, Zinc" },
+  { id: 109, name: "Tuna (Canned)", calories: 179, protein: 39, carbohydrates: 0, fats: 1.3, vitamins: "D, B12", minerals: "Selenium, Potassium" },
+  { id: 110, name: "Spinach", calories: 23, protein: 2.9, carbohydrates: 3.6, fats: 0.4, vitamins: "A, C, K", minerals: "Iron, Magnesium" }
 ];
